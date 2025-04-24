@@ -9,4 +9,15 @@
     <string name="tekst">Привет!</string>
     <string name="onebutton">Push me</string>
     <string name="twobutton">And me</string>
+
+    <string name="logo_text">Калькулятор</string>
+    <string name="number_1">Число 1</string>
+    <string name="number_2">Число 2</string>
+    <string name="sum_btn">Вычислить сумму</string>
+
+    <string name="result">Результат</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
 </resources>
